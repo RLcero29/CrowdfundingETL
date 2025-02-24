@@ -1,0 +1,2 @@
+This project involves building an ETL (Extract, Transform, Load) pipeline for crowdfunding data. The objective is to extract data from a given source, transform it as needed, and load it into a database. The project also includes analyzing and querying the crowdfunding data.
+We extracted Excel data and transformed the data into 4 different dataframes using various methods that we would export into 4 separate CSV files. We also would create a database using PostgreSQL from an ERD schema that we sketched to help guide our primary key and foreign key designations.
