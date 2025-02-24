@@ -1,6 +1,8 @@
 **Project 2 Overview:<br>**
 This project involves building an ETL (Extract, Transform, Load) pipeline for crowdfunding data.<br>
+<br>
 **Objective:** Extract data from a given source, transform it as needed, and load it into a database. The project also includes analyzing and querying the crowdfunding data.<br>
+<br>
 **Outcome:** This project creates a database that houses the different companies that have launched a crowdfunding campaign, complete with information such as contact info for the campaign, the description of the company, and whether or not the crowdfunding was successful.<br>
 <br>
 
